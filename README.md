@@ -1,4 +1,5 @@
-Personal websites list
---------
+#Personal websites list
 
-- http://strml.net/
+Inspiring personal websites.
+
+* http://strml.net/ - "Samuel Reed, Frontend / NodeJS Developer"
