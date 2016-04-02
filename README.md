@@ -1,14 +1,15 @@
 # Coding style guides
 ## Frameworks
-**AngularJS**
-- https://github.com/johnpapa/angular-styleguide
+- https://github.com/johnpapa/angular-styleguide (AngularJS)
 
 ## (Markup/programming) languages
-- (Css) http://primercss.io/ - The CSS toolkit and guidelines that power GitHub.
-- (Javascript) https://github.com/airbnb/javascript
-- (Javascript, general) https://github.com/zenorocha/my-coding-style
-- (Html, css, javascript) http://isobar-idev.github.io/code-standards/
-- (Ruby) https://github.com/styleguide/ruby
+- http://primercss.io/ (Css) - The CSS toolkit and guidelines that power GitHub.
+- https://github.com/airbnb/javascript (Javascript) 
+- https://github.com/zenorocha/my-coding-style (Javascript, general) 
+- http://isobar-idev.github.io/code-standards/ (Html, css, javascript) 
+- https://github.com/styleguide/ruby (Ruby) 
+- https://github.com/styleguide/mobile (Mobile)
+
 
 # Inspiring tech people
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
