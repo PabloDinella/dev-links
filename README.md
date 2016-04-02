@@ -1,8 +1,8 @@
 # Coding style guides
-## Frameworks
+**Frameworks**
 - https://github.com/johnpapa/angular-styleguide (AngularJS)
 
-## (Markup/programming) languages
+**(Markup/programming) languages**
 - http://primercss.io/ (Css) - The CSS toolkit and guidelines that power GitHub.
 - https://github.com/necolas/idiomatic-css (Css)
 - https://github.com/airbnb/javascript (Javascript) 
@@ -10,7 +10,14 @@
 - http://isobar-idev.github.io/code-standards/ (Html, css, javascript) 
 - https://github.com/styleguide/ruby (Ruby) 
 - https://github.com/styleguide/mobile (Mobile)
+ 
+# Cheat Sheets
+**VIM**
+- http://vim.rtorr.com/
 
+**Misc**
+- http://www.emoji-cheat-sheet.com/
+- http://ricostacruz.com/cheatsheets/ - Several small cheat sheets
 
 # Inspiring tech people
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
