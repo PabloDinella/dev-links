@@ -19,7 +19,11 @@
 - http://www.emoji-cheat-sheet.com/
 - http://ricostacruz.com/cheatsheets/ - Several small cheat sheets
 
-# Inspiring tech people
+# Misc
+- https://stackedit.io/ - Online markdown editor
+- http://prose.io/ - Online github .md files editor
+
+# Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
 - http://jimmac.musichall.cz/ - Jakub Steiner: Designer. Camera Pilot.
 - http://cassidyjames.com/ - Cassidy James: elementary OS community manager.
