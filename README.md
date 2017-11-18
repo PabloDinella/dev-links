@@ -30,3 +30,4 @@
 - http://snwh.org/ - Sam Hewitt: Designer.
 - https://sindresorhus.com - Sindre Sorhus, creator of http://AVA.li/ and Yeoman (with Addy Osmani)
 - https://nemethgergely.com/
+- https://bukinoshita.io/
