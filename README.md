@@ -32,3 +32,4 @@
 - https://nemethgergely.com/
 - https://bukinoshita.io/
 - https://pothix.com
+- http://zehfernandes.com
