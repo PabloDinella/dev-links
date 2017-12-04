@@ -34,3 +34,7 @@
 - https://pothix.com
 - http://zehfernandes.com
 - https://addyosmani.com
+- https://jcemer.com
+
+# Cool company websites
+- https://work.co/
