@@ -1,4 +1,4 @@
-# Coding style guides
+## Coding style guides
 **Frameworks**
 - https://github.com/johnpapa/angular-styleguide (AngularJS)
 
@@ -11,7 +11,7 @@
 - https://github.com/styleguide/ruby (Ruby) 
 - https://github.com/styleguide/mobile (Mobile)
  
-# Cheat Sheets
+## Cheat Sheets
 **VIM**
 - http://vim.rtorr.com/
 
@@ -19,11 +19,11 @@
 - http://www.emoji-cheat-sheet.com/
 - http://ricostacruz.com/cheatsheets/ - Several small cheat sheets
 
-# Misc
+## Misc
 - https://stackedit.io/ - Online markdown editor
 - http://prose.io/ - Online github .md files editor
 
-# Inspiring personal websites
+## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
 - http://jimmac.musichall.cz/ - Jakub Steiner: Designer. Camera Pilot.
 - http://cassidyjames.com/ - Cassidy James: elementary OS community manager.
@@ -36,6 +36,7 @@
 - https://addyosmani.com
 - https://jcemer.com
 - https://nipher.io/
-
-# Cool company websites
+- https://caferati.me/
+ 
+## Cool company websites
 - https://work.co/
