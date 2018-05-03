@@ -37,6 +37,7 @@
 - https://jcemer.com
 - https://nipher.io/
 - https://caferati.me/
+- https://substack.neocities.org/
  
 ## Cool company websites
 - https://work.co/
