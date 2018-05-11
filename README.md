@@ -38,6 +38,7 @@
 - https://nipher.io/
 - https://caferati.me/
 - https://substack.neocities.org/
+- https://dougblack.io/index.html
  
 ## Cool company websites
 - https://work.co/
