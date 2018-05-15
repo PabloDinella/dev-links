@@ -39,6 +39,7 @@
 - https://caferati.me/
 - https://substack.neocities.org/
 - https://dougblack.io/index.html
+- http://bradfrost.com/
  
 ## Cool company websites
 - https://work.co/
