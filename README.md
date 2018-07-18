@@ -40,6 +40,8 @@
 - https://substack.neocities.org/
 - https://dougblack.io/index.html
 - http://bradfrost.com/
+- https://iamsaravieira.com - A graphql interface
+- http://juliangarnier.com/ - Designed as a chat
  
 ## Cool company websites
 - https://work.co/
