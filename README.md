@@ -42,6 +42,7 @@
 - http://bradfrost.com/
 - https://iamsaravieira.com - A graphql interface
 - http://juliangarnier.com/ - Designed as a chat
+- http://mystaticself.com/#/connect - Crazy webgl interactive website
  
 ## Cool company websites
 - https://work.co/
