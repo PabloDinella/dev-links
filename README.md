@@ -22,6 +22,7 @@
 ## Misc
 - https://stackedit.io/ - Online markdown editor
 - http://prose.io/ - Online github .md files editor
+- http://gedd.ski/
 
 ## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
