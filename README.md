@@ -47,6 +47,7 @@
 - http://mrmrs.cc/
 - https://sarah.dev/
 - http://rachelnabors.com/
+- https://www.alispit.tel/
  
 ## Cool company websites
 - https://work.co/
