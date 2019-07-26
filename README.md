@@ -48,6 +48,7 @@
 - https://sarah.dev/
 - http://rachelnabors.com/
 - https://www.alispit.tel/
+- https://flaviocopes.com/
  
 ## Cool company websites
 - https://work.co/
