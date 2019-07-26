@@ -49,6 +49,7 @@
 - http://rachelnabors.com/
 - https://www.alispit.tel/
 - https://flaviocopes.com/
+- https://cassidoo.co/
  
 ## Cool company websites
 - https://work.co/
