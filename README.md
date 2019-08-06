@@ -51,6 +51,7 @@
 - https://flaviocopes.com/
 - https://cassidoo.co/
 - http://shillingburg.co/index.html
+- http://daisymarie128.github.io/#/home
  
 ## Cool company websites
 - https://work.co/
