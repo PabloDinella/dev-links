@@ -54,7 +54,8 @@
 - http://daisymarie128.github.io/#/home
 - http://mds.is/
 - https://www.matthewencina.com/
-- https://bruno-simon.com/
+- https://bruno-simon.com/ - awesome game
+- https://lynnandtonic.com/ 
  
 ## Cool company websites
 - https://work.co/
