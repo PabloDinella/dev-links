@@ -57,6 +57,7 @@
 - https://bruno-simon.com/ - awesome game
 - https://lynnandtonic.com/ 
 - https://olaolu.dev/
+- https://www.gabrielvaldivia.com/
  
 ## Cool company websites
 - https://work.co/
