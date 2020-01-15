@@ -60,6 +60,7 @@
 - https://olaolu.dev/
 - https://www.gabrielvaldivia.com/
 - https://stuffwithstuff.com/
+- https://sam.jajoo.fun/
  
 ## Cool company websites
 - https://work.co/
