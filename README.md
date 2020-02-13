@@ -38,6 +38,7 @@
 - https://www.gabrielvaldivia.com/
 - https://stuffwithstuff.com/
 - https://sam.jajoo.fun/
+- https://wes.dev/
  
 ## Cool company websites
 - https://work.co/
