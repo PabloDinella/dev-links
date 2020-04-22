@@ -39,6 +39,7 @@
 - https://stuffwithstuff.com/
 - https://sam.jajoo.fun/
 - https://wes.dev/
+- https://quentinhocde.com/
  
 ## Cool company websites
 - https://work.co/
