@@ -41,6 +41,7 @@
 - https://wes.dev/
 - https://quentinhocde.com/
 - https://timcchang.com/
+- https://dribbble.com/shots/5957554-Personal-site-Version-2350938-0 | https://t.co/fM3faTpIV5?amp=1 - crazy scroll effect
  
 ## Cool company websites
 - https://work.co/
