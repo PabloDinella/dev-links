@@ -1,6 +1,7 @@
 ## Misc
 - http://gedd.ski/
 - https://uses.tech/
+- https://listeningtogether.atspotify.com/
 
 ## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
@@ -50,3 +51,4 @@
 - https://lusion.co/
 - https://www.lexaloffle.com/
 - https://cuberto.com/ 
+- https://activetheory.net/home
