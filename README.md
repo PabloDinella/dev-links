@@ -2,6 +2,7 @@
 - http://gedd.ski/
 - https://uses.tech/
 - https://listeningtogether.atspotify.com/
+- https://blog.blumenaujs.org/ - liked this layout
 
 ## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
