@@ -4,6 +4,7 @@
 - https://listeningtogether.atspotify.com/
 - https://blog.blumenaujs.org/ - liked this layout
 - https://defaced.dev/web/the-buggiest-site-on-the-web/ - example of website with animated image on console
+- https://wizardzines.com/zines/http/
 
 ## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
