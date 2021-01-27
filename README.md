@@ -49,6 +49,7 @@
 - https://guillaumegouessan.com/
 - https://tr.af/
 - https://guglieri.com/
+- https://mxb.dev/
  
 ## Cool company websites
 - https://work.co/
