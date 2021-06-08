@@ -53,6 +53,7 @@
 - https://leerob.io/ | https://rod.kisten.dev/
 - https://www.ansdor.com/
 - https://luisarbezerra.com/
+- http://slackjeff.com.br/ - "vintage"
  
 ## Cool company websites
 - https://work.co/
