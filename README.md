@@ -55,6 +55,7 @@
 - https://luisarbezerra.com/
 - http://slackjeff.com.br/ - "vintage"
 - https://rauno.me/ - a really nice one
+- https://kitze.io/
  
 ## Cool company websites
 - https://work.co/
