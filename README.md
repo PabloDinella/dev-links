@@ -5,6 +5,7 @@
 - https://blog.blumenaujs.org/ - liked this layout
 - https://defaced.dev/web/the-buggiest-site-on-the-web/ - example of website with animated image on console
 - https://wizardzines.com/zines/http/
+- https://twitter.com/felixleezd/status/1664285949986226176 (a thread)
 
 ## Inspiring personal websites
 - http://strml.net/ - Samuel Reed: Frontend / NodeJS Developer
