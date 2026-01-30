@@ -62,6 +62,7 @@
 - https://udara.io/ - includes his own microblog
 - https://www.attiq.design/
 - https://dnlytras.com/ - interesting layout
+- https://brunocroh.com/
  
 ## Cool company websites
 - https://work.co/
